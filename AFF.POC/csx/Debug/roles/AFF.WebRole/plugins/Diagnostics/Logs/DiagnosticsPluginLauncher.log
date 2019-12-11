@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:49:52 AM] Emulator config file set to C:\Users\gaurav-pc\source\repos\AFF.POC\AFF.POC\csx\Debug\roles\AFF.WebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:49:53 AM] DiagnosticsStoreRootPath set to: C:\Users\gaurav-pc\AppData\Local\dftmp\Resources\cd76f812-b5c8-4ee8-a951-835e70070333
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:49:53 AM] Loading config file: C:\Users\gaurav-pc\source\repos\AFF.POC\AFF.POC\csx\Debug\roles\AFF.WebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:49:53 AM] Config file to read: C:\Users\gaurav-pc\source\repos\AFF.POC\AFF.POC\csx\Debug\roles\AFF.WebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:49:53 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:49:53 AM] Emulator config file set to C:\Users\gaurav-pc\source\repos\AFF.POC\AFF.POC\csx\Debug\roles\AFF.WebRole\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:49:53 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:49:53 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:49:53 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:49:53 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:49:53 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:49:53 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:49:53 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:49:53 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:49:53 AM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:51:03 AM] DiagnosticsPlugin launched successfully with new configuration
+DiagnosticsPluginLauncher.exe Information: 0 : [12/11/2019 8:51:03 AM] DiagnosticPlugin exited with code 0

@@ -1,4 +1,14 @@
 # ASP.NET
+- task: AzureRmWebAppDeployment@4
+  inputs:
+    ConnectionType: 'AzureRM'
+    azureSubscription: 'Visual Studio Ultimate with MSDN(b93e7999-8460-44e2-a432-22afecf0ebaa)'
+    appType: 'webApp'
+    WebAppName: 'affdemo'
+    deployToSlotOrASE: true
+    ResourceGroupName: 'Gaurav-PC'
+    SlotName: 'production'
+    packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
 # Build and test ASP.NET projects.
 # Add steps that publish symbols, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/apps/aspnet/build-aspnet-4

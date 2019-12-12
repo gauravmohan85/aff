@@ -42,3 +42,15 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+- task: AzureRmWebAppDeployment@4
+  inputs:
+    ConnectionType: 'AzureRM'
+    azureSubscription: 'Visual Studio Ultimate with MSDN(1)(b93e7999-8460-44e2-a432-22afecf0ebaa)'
+    appType: 'webApp'
+    WebAppName: 'affdemo'
+    deployToSlotOrASE: true
+    ResourceGroupName: 'Gaurav-PC'
+    SlotName: 'production'
+    packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
+    enableCustomDeployment: true
+    DeploymentType: 'webDeploy'

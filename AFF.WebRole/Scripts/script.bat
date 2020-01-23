@@ -1,0 +1,1 @@
+﻿ECHO "Fitness Function Environment has deleted successfully"
